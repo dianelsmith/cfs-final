@@ -84,6 +84,9 @@
     <Content Include="Problem3\problem3.js" />
     <Content Include="Problem4\index.html" />
     <Content Include="Problem4\problem4.js" />
+    <Content Include="Problem5\index.html" />
+    <Content Include="Problem5\problem5.css" />
+    <Content Include="Problem5\problem5.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

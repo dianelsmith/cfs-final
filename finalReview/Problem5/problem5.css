@@ -1,0 +1,14 @@
+﻿.cat {
+    background-image:url(http://placekitten.com.s3.amazonaws.com/homepage-samples/408/287.jpg);
+    width:408px;
+    height:287px;
+    z-index:-1;
+}
+
+.catBlend {
+    opacity:0.3;
+    position:absolute;
+    z-index:1;
+    width:408px;
+    height:287px;
+}
