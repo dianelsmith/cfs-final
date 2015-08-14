@@ -12,6 +12,16 @@ as well as be able to meow (function that prints something to console)
 Write the Cat object definition
 */
 
+function Cat(color, weight) {
+    this.color = color;
+    this.weight = weight;
+
+    this.meow = function () {
+        console.log('Meow!');
+    }
+
+}
+
 $(document).ready(function() {
     var cat = new Cat();
 

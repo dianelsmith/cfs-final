@@ -27,6 +27,10 @@ Its should only accept 1 parameter, a css selector for the input element
 It should return the value in the input field
 */
 
+function getUserInput(selector) {
+    /// <param name="selector" type="string">The css selector</param>
+    return $(selector).val();
+}
 
 
 /*
@@ -34,3 +38,9 @@ Write the setOutput function here
 
 It should accept a two parameters, the css selector and the text used to set
 */
+
+function setOutput(selector, output) {
+    /// <param name="selector" type="string">The css selector</param>
+    /// <param name="output" type="var">The text to output</param>
+    return $(selector).text(output);
+}
