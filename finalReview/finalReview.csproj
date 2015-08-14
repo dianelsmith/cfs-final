@@ -77,6 +77,8 @@
   <ItemGroup>
     <Content Include="Problem1\expected-results.png" />
     <Content Include="Problem1\index.html" />
+    <Content Include="Problem1\problem1.css" />
+    <Content Include="Problem1\problem1.js" />
     <Content Include="Problem2\index.html" />
     <Content Include="Problem2\problem2.js" />
     <Content Include="Problem3\index.html" />

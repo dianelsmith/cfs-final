@@ -9,7 +9,7 @@ as well as be able to meow (function that prints something to console)
 */
 
 /*
-Write the Cat object here
+Write the Cat object definition
 */
 
 $(document).ready(function() {
