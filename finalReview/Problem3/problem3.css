@@ -1,0 +1,21 @@
+﻿#left {
+    float:left;
+    width:50%;
+    height:500px;
+    background-color:lightblue;
+}
+
+#right {
+    float:left;
+    width:50%;
+    height:500px;
+    background-color:lightgreen;
+}
+
+.ball {
+    background-color:red;
+    width:50%;
+    height:50%;
+    border-radius:100%;
+    margin:25% auto;
+}
