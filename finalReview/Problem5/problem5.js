@@ -5,7 +5,7 @@ Don't modify the document ready function. Just add the Cat object. Check your sp
 
 Create an cat object!
 It should have color and weight properties,
-as well as be able to meow (function)
+as well as be able to meow (function that prints something to console)
 */
 
 /*
